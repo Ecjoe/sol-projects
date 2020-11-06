@@ -29,7 +29,7 @@ contract charity_smart_contract{
     }
     
     function setOwner(address _newOwner) public ownerAllowed {
-        
+        require(isPause==true,"not paused");
         owner=_newOwner;
         
     }
