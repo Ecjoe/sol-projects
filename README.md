@@ -1,3 +1,3 @@
 # Blockchain
-Charity Smart System Contracts\
-Lottery Smart System Contracts
+Charity System Smart Contracts\
+Lottery System Smart Contracts
